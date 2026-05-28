@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configdync",
+        "uuid": 24890540,
+        "checksum": "pvj5k"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
